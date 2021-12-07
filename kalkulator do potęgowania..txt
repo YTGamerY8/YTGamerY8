@@ -1,0 +1,8 @@
+print ("Kalkulator do potegowania v 1.0")
+num1 = input ("Podaj 1 liczbe: ")
+num2 = input ("Podaj 2 liczbe: ")
+wynik = int(num1) ** int(num2)
+
+print (wynik)
+input ("Wpisz cos aby zamknąć: ")
+
